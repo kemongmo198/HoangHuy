@@ -24,7 +24,7 @@ toggle.addEventListener("click", () => {
     input.select();
     input.setSelectionRange(0, 99999);
     document.execCommand("copy");
-    alert('Mb Bank | 041 014 862 8888\n ______\n"Copy thành công"');
+    alert('Mb Bank |1998110188888\n ______\n"Copy thành công"');
     document.body.removeChild(input);
     var tooltip = document.getElementById("myTooltip");
     tooltip.style.display='block';
